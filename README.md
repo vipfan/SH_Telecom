@@ -2,6 +2,6 @@
 
 jsDelivr:
 
-https://cdn.jsdelivr.net/gh/vipfan/SH_Telecom@v0.0.2/SH_Telecom_IPTV.txt
+https://cdn.jsdelivr.net/gh/vipfan/SH_Telecom@V0.0.2/SH_Telecom_IPTV.txt
 
-https://cdn.jsdelivr.net/gh/vipfan/SH_Telecom@v0.0.2/SH_Telecom_IPTV.m3u
+https://cdn.jsdelivr.net/gh/vipfan/SH_Telecom@V0.0.2/SH_Telecom_IPTV.m3u
